@@ -12,7 +12,7 @@ main {
     height: 760px;
     margin: 3% auto 0 auto;
     padding: 10%;
-    background-color: rgb(172, 235, 231);
+    background-color: rgb(186, 235, 232);
     position: relative;
     display: flex;
     flex-direction: column;
@@ -29,7 +29,6 @@ h3 {
 
 section {
     margin: 0 auto 0 auto;
-    /* border: 1px solid red; */
     height: 100px;
     width: auto;
     display: flex;
