@@ -58,4 +58,5 @@ div#button {
 
 div#button:active {
     padding: 9px;
+    margin-bottom: 1px;
 }
