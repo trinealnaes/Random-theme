@@ -12,7 +12,7 @@ main {
     height: 760px;
     margin: 3% auto 0 auto;
     padding: 10%;
-    background-color: rgb(186, 235, 232);
+    background-color: rgb(192, 232, 229);
     position: relative;
     display: flex;
     flex-direction: column;
